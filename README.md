@@ -1,3 +1,3 @@
-Nikhil Mohan
+Nikhilmohan
 Trivandrum
 Coursera Meta Front end Development
